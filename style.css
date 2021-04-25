@@ -1,0 +1,124 @@
+body{
+    background-color: #fefecc;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+}
+.top-container{
+    padding-top: 150px;
+}
+#my-name{
+    font-family: 'Sacramento', cursive;
+    font-size: 50px;
+}
+p{
+    color: black;
+    line-height: 2;
+    
+}
+
+.cloudup{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.clouddown{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.mountian{
+    padding-top: 50px;
+}
+
+.middle-container{
+    padding-top: 100px;
+    padding-bottom: 80px;
+    background-color: white;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 50px auto 100px auto;
+    text-align: left;
+}
+
+.coding-img{
+    width: 40%;
+    float: left;
+    padding-right: 20px;
+    
+}
+.chilli-img{
+    width: 40%;
+    float: right;
+    border-radius: 50%;
+}
+.khodm-img{
+    border-radius: 20%;
+}
+
+hr{
+    width: 7%;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    color:#ffcb69;
+    margin: 100px auto;
+   
+}
+.contact-me p{
+    padding-bottom: 60px;
+}
+
+.btn {
+    background: #fea82f;
+    background-image: -webkit-linear-gradient(top, #fea82f, #fea82f);
+    background-image: -moz-linear-gradient(top, #fea82f, #fea82f);
+    background-image: -ms-linear-gradient(top, #fea82f, #fea82f);
+    background-image: -o-linear-gradient(top, #fea82f, #fea82f);
+    background-image: linear-gradient(to bottom, #fea82f, #fea82f);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Merriweather', serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 5px 10px 5px 10px;
+    border: solid #b5741a 2px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #ffcb69;
+    background-image: -webkit-linear-gradient(top, #ffcb69, #ffcb69);
+    background-image: -moz-linear-gradient(top, #ffcb69, #ffcb69);
+    background-image: -ms-linear-gradient(top, #ffcb69, #ffcb69);
+    background-image: -o-linear-gradient(top, #ffcb69, #ffcb69);
+    background-image: linear-gradient(to bottom, #ffcb69, #ffcb69);
+    text-decoration: none;
+  }
+
+
+  .bottom-container{
+      background-color: #fefecc;
+      padding: 50px 0 20px 0;
+  }
+
+  .bottom-container a{
+    color: black;
+    font-family: 'Merriweather', serif;
+    margin: 10px 20px;
+    text-decoration: none;
+    padding: 0 0;
+   
+}
+.bottom-container a:hover{
+    color: white;
+}
+
+.copyright{
+    font-family: 'Merriweather', serif;
+    font-size: small;
+}
